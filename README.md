@@ -8,9 +8,6 @@ FreshMart is a high-performance, full-stack grocery application built with the *
 
 ![FreshMart Banner](https://placehold.co/1200x400/22c55e/ffffff?text=FreshMart+Grocery+Platform)
 
-## 🚀 Repository & Demo
-- **GitHub Repo:** [https://github.com/Mdsayeed098/freshmart](https://github.com/Mdsayeed098/freshmart)
-- **Live Demo:** [Coming Soon]
 
 ---
 
